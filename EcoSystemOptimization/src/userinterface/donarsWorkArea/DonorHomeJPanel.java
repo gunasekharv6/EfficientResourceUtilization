@@ -19,7 +19,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author manojreddy
+ * @author gunav
  */
 public class DonorHomeJPanel extends javax.swing.JPanel {
     

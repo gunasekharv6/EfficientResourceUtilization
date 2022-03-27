@@ -28,7 +28,7 @@ import javax.swing.filechooser.FileNameExtensionFilter;
 
 /**
  *
- * @author manojreddy
+ * @author gunav
  */
 public class UpdateOrganizationInfoJPanel extends javax.swing.JPanel {
 

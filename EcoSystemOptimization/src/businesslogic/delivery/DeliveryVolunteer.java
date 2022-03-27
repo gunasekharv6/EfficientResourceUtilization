@@ -14,7 +14,7 @@ import java.util.List;
 
 /**
  *
- * @author manojreddy
+ * @author gunav
  */
 public class DeliveryVolunteer extends User{
     

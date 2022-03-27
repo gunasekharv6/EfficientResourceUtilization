@@ -31,7 +31,7 @@ import javax.swing.filechooser.FileNameExtensionFilter;
 
 /**
  *
- * @author manojreddy
+ * @author gunav
  */
 public class UpdateDonorProfileJPanel extends javax.swing.JPanel {
 

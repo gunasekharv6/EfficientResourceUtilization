@@ -16,7 +16,7 @@ import userinterface.systemAdminsWorkArea.SysAdminHomeJPanel;
 
 /**
  *
- * @author manojreddy
+ * @author gunav
  */
 public class JPanelManager {
     

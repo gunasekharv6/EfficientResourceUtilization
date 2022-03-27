@@ -15,7 +15,7 @@ import java.util.List;
 
 /**
  *
- * @author manojreddy
+ * @author gunav
  */
 public class Organization extends ModificationInfo{
     

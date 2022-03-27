@@ -32,7 +32,7 @@ import javax.swing.filechooser.FileNameExtensionFilter;
 
 /**
  *
- * @author manojreddy
+ * @author gunav
  */
 public class CreateNewDeliveryVolunteerJPanel extends javax.swing.JPanel {
 
