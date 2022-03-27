@@ -1,0 +1,15 @@
+Cloning the repo
+
+git clone https://github.com/amireddym/AED-Final-Project.git
+
+Check current working Branch
+
+git branch
+
+Switch to personal branch
+
+git checkout -b <branchName> <remoteBranch>
+
+ex : git checkout -b manojreddya remotes/origin/manojreddya
+
+Check the branch with "git branch" command again.
